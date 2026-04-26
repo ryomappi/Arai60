@@ -59,7 +59,7 @@ https://1kohei1.com/leetcode/
 ## Binary Search
 - [ ] [35. Search Insert Position]()
 - [ ] [153. Find Minimum in Rotated Sorted Array]()
-- [ ] [33. Search in Rotated Sorted Array]()
+- [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [ ] [1011. Capacity To Ship Packages Within D Days]()
 
 ## Recursion
