@@ -15,7 +15,7 @@ https://1kohei1.com/leetcode/
 
 ## Heap, PriorityQueue
 - [ ] [703. Kth Largest Element in a Stream]()
-- [ ] [347. Top K Frequent Elements]()
+- [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ] [373. Find K Pairs with Smallest Sums]()
 
 ## HashMap
