@@ -74,7 +74,7 @@ https://1kohei1.com/leetcode/
 ## Greedy + Backtracking
 - [ ] [46. Permutations]()
 - [ ] [78. Subsets]()
-- [ ] [39. Combination Sum]()
+- [x] [39. Combination Sum](https://leetcode.com/problems/combination-sum/description)
 - [ ] [22. Generate Parentheses]()
 
 ## その他
