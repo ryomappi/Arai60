@@ -5,7 +5,7 @@ https://1kohei1.com/leetcode/
 ## LinkedList
 - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
-- [ ] [83. Remove Duplicates from Sorted List]()
+- [x] [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [ ] [82. Remove Duplicates from Sorted List II]()
 - [ ] [2. Add Two Numbers]()
 
