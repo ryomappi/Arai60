@@ -57,7 +57,7 @@ https://1kohei1.com/leetcode/
 - [ ] [322. Coin Change]()
 
 ## Binary Search
-- [ ] [35. Search Insert Position]()
+- [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 - [ ] [153. Find Minimum in Rotated Sorted Array]()
 - [ ] [33. Search in Rotated Sorted Array]()
 - [ ] [1011. Capacity To Ship Packages Within D Days]()
