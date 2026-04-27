@@ -72,7 +72,7 @@ https://1kohei1.com/leetcode/
 - [ ] [209. Minimum Size Subarray Sum]()
 
 ## Greedy + Backtracking
-- [ ] [46. Permutations]()
+- [x] [46. Permutations](https://leetcode.com/problems/permutations/description/)
 - [ ] [78. Subsets]()
 - [ ] [39. Combination Sum]()
 - [ ] [22. Generate Parentheses]()
